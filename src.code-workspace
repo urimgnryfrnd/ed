@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../cam/ED3/MecanumRobot_Control/src"
+		},
+		{
+			"name": "MecanumRobot_Camera",
+			"path": "../MecanumRobot_Camera"
+		},
+		{
+			"name": "MecanumRobot_Control",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
